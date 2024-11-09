@@ -1,5 +1,7 @@
 # ASCII-VIDEO
 
+![](Screenshot from 2024-11-09 17-21-47.png)
+
 ## 概要
 このプログラムは、動画ファイルをASCIIビデオに変換するプログラムです。
 KizunaAIの「Cognition」というライブ動画に影響されて制作しました。
