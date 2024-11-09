@@ -1,6 +1,6 @@
 # ASCII-VIDEO
 
-![](Screenshot_from_2024-11-09_17-21-47.png)
+![](Screenshot.png)
 
 ## 概要
 このプログラムは、動画ファイルをASCIIビデオに変換するプログラムです。
